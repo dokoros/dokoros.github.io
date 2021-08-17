@@ -27,7 +27,7 @@ class Plane{
 		// Load a glTF resource
 		loader.load(
 			// resource URL
-			'newPlane.glb',
+			'NewPlane.glb',
 			// called when the resource is loaded
 			gltf => {
 
