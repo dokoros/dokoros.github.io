@@ -1,5 +1,5 @@
-import { Vector3 } from './libs/three.module.js';
-import { GLTFLoader } from './libs/GLTFLoader.js';
+import { Vector3 } from '../libs/three.module.js';
+import { GLTFLoader } from '../libs/GLTFLoader.js';
 
 class Plane{
     constructor(game){
