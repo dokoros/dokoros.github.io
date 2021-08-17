@@ -1,9 +1,9 @@
-import * as THREE from '../libs/three.module.js';
-import { RGBELoader } from '../libs/RGBELoader.js';
-import { LoadingBar } from '../libs/LoadingBar.js';
+import * as THREE from './libs/three.module.js';
+import { RGBELoader } from './libs/RGBELoader.js';
+import { LoadingBar } from './libs/LoadingBar.js';
 import { Plane } from './Plane.js';
 import { Obstacles } from './Obstacles.js';
-import { SFX } from '../libs/SFX.js';
+import { SFX } from './libs/SFX.js';
 
 class Game{
 	constructor(){
