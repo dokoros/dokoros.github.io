@@ -1,5 +1,5 @@
-import { Group, Vector3 } from './libs/three.module.js';
-import { GLTFLoader } from './libs/GLTFLoader.js';
+import { Group, Vector3 } from '../libs/three.module.js';
+import { GLTFLoader } from '../libs/GLTFLoader.js';
 import { Explosion } from './Explosion.js';
 
 class Obstacles{
